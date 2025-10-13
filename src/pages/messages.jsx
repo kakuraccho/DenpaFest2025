@@ -1,9 +1,10 @@
 import * as React from "react"
+import Body from "../components/body"
 
 export default function messages() {
     return (
-        <main>
+        <Body>
             <p>挨拶</p>
-        </main>
+        </Body>
     )
 }
