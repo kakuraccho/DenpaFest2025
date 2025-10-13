@@ -15,4 +15,7 @@ module.exports = {
     },
   },
   plugins: [],
+  safelist: [
+    'writing-mode-vertical-rl',
+  ]
 }
