@@ -2,6 +2,7 @@ import * as React from "react"
 import Footer from "./footer";
 import Header from "./header";
 import SideBar from "./sidebar";
+import { Helmet } from "react-helmet";
 import "../styles/global.css"
 
 export default function Body({ children }) {
@@ -13,6 +14,9 @@ export default function Body({ children }) {
 
     return (
         <div className="flex flex-col min-h-screen overflow-x-hidden">
+            <Helmet>
+                <title>第53回 電波祭</title>
+            </Helmet>
 
             <Header toggleSidebar={toggleSidebar} isSidebarOpen={isSidebarOpen} />
 

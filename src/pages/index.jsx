@@ -13,12 +13,9 @@ export default function Home() {
             </div>
 
             <div className="flex flex-col items-center"> {/*タイトルセクション*/}
-                <div className="relation flex flex-row w-full justify-end">
-                    <div className="absolute left-1/2 -translate-x-1/2">
-                        <p className="text-2xl writing-mode-vertical-rl">電波祭を。</p>
-                    </div>
-                    <div className="">
-                        <p className="text-2xl writing-mode-vertical-rl pr-4">楽しめ<br />青春を<br />詫間を<br />今を</p>
+                <div className="flex w-full justify-center">
+                    <div className="flex flex-color ml-[155px]">
+                        <p className="text-2xl writing-mode-vertical-rl">楽しめ<br />青春を<br />詫間を<br />今を<br /><br />電波祭を。</p>
                     </div>
                 </div>
                 <div className="flex flex-col items-center mt-10">
