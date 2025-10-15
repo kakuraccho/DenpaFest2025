@@ -16,24 +16,31 @@ export default function SideBar({ isSidebarOpen, toggleSidebar }) {
                 ${isSidebarOpen ? "translate-x-0" : "-translate-x-full"}`}
             >
                 <nav>
-                    <h1>Coming Soon...</h1>
-                    {/* <ul>
-                        <li>
-                            <Link>概要</Link>
+                    <ul className="flex flex-col gap-2">
+                        <li className="h-10">
+                            <Link to="/" className="flex items-center h-full w-full">00. Over View</Link>
                         </li>
-                        <li>
-                            <Link>挨拶</Link>
+
+                        <li className="h-10">
+                            <Link to="/messages" className="flex items-center h-full w-full">01. Messages</Link>
                         </li>
-                        <li>
-                            <Link>出店一覧</Link>
+
+                        <li className="h-10">
+                            <Link to="/vendors" className="flex items-center h-full w-full">02. Vendors</Link>
                         </li>
-                        <li>
-                            <Link>タイムテーブル</Link>
+
+                        <li className="h-10">
+                            <Link to="/events" className="flex items-center h-full w-full">03. Events</Link>
                         </li>
-                        <li>
-                            <Link>実行委員紹介</Link>
+
+                        <li className="h-10">
+                            <Link to="/" className="flex items-center h-full w-full">04. Time Table</Link>
                         </li>
-                    </ul> */}
+
+                        <li className="h-10">
+                            <Link to="/committee" className="flex items-center h-full w-full">05. Committee</Link>
+                        </li>
+                    </ul>
                 </nav>
             </aside>
         </>

@@ -1,10 +1,10 @@
 import * as React from "react"
 import Body from "../components/body"
 
-export default function Events() {
+export default function Committee() {
     return (
         <Body>
-            <p>イベント一覧</p>
+            <p>実行委員紹介</p>
         </Body>
     )
 }
