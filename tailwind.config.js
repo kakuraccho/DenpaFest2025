@@ -4,6 +4,8 @@ module.exports = {
         "./src/pages/**/*.{js,jsx,ts,tsx}",
         "./src/components/**/*.{js,jsx,ts,tsx}",
         "./src/templates/**/*.{js,jsx,ts,tsx}",
+        "./src/contents/**/*.{js,jsx,ts,tsx}"
+
     ],
     theme: {
         extend: {
@@ -12,9 +14,6 @@ module.exports = {
                 'top-lg': '0 -10px 15px -3px rgba(0, 0, 0, 0.1), 0 -4px 6px -2px rgba(0, 0, 0, 0.05)',
                 'right': '4px 0 6px -1px rgba(0, 0, 0, 0.1), 2px 0 4px -1px rgba(0, 0, 0, 0.06)'
             },
-            listStyleType: {
-                'decimal-leading-zero': 'decimal-leading-zero'
-            }
         },
     },
     plugins: [],

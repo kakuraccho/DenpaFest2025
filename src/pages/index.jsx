@@ -2,6 +2,7 @@ import * as React from "react"
 import Body from "../components/body"
 import { StaticImage } from "gatsby-plugin-image"
 import "../styles/global.css"
+import PrincipalMessage from "../contents/MessagePrincipal"
 
 export default function Home() {
 
