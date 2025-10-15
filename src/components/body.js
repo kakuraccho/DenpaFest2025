@@ -1,5 +1,5 @@
 import * as React from "react"
-import Footer from "./footer";
+import Footer from "./footer.js";
 import Header from "./header";
 import SideBar from "./sidebar";
 import { Helmet } from "react-helmet";
