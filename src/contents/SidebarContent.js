@@ -6,7 +6,7 @@ export default function SideBarContent() {
     return (
         <ul className="flex flex-col gap-2">
             <li className="h-10">
-                <Link to="/" className="flex items-center h-full w-full">00. Over View</Link>
+                <Link to="/" className="flex items-center h-full w-full">00. Top</Link>
             </li>
 
             <li className="h-10">
