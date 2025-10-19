@@ -14,7 +14,7 @@ export default function SideBarContent() {
             </li>
 
             <li className="h-10">
-                <Link to="/vendors" className="flex items-center h-full w-full">02. Vendors</Link>
+                <Link to="/stores" className="flex items-center h-full w-full">02. Stores</Link>
             </li>
 
             <li className="h-10">

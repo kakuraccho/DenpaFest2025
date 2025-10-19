@@ -1,12 +1,12 @@
 import * as React from "react"
-import Body from "../components/body"
-import ComingSoon from "../contents/ComingSoon"
+import Body from "../base/body"
+import StoresContent from "../contents/storesContent"
 
 export default function Vendor() {
     
     return (
         <Body>
-            <ComingSoon/>
+            <StoresContent />
         </Body>
     )
 }

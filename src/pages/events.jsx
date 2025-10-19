@@ -1,11 +1,11 @@
 import * as React from "react"
-import Body from "../components/body"
-import ComingSoon from "../contents/ComingSoon"
+import Body from "../base/body"
+import EventContent from "../contents/eventsContent"
 
 export default function Events() {
     return (
         <Body>
-            <ComingSoon/>
+            <EventContent />
         </Body>
     )
 }

@@ -1,5 +1,5 @@
 import * as React from "react"
-import Body from "../components/body"
+import Body from "../base/body"
 import PrincipalMessage from "../contents/MessagePrincipal"
 import CommitteeMessage from "../contents/MessageCommittee"
 

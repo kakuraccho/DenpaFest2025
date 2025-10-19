@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "event": "karaoke booth",
+        "organizer": "ryuta",
+        "picture": "karaoke.jpg",
+        "detail": "you can sing very well here."
+    },
+    {
+        "id": 2,
+        "event": "girls contest",
+        "organizer": "morikazu",
+        "picture": "girlscontest.jpg",
+        "detail": "you are the most beautiful kosen student."
+    }
+]

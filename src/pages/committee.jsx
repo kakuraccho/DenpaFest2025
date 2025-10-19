@@ -1,6 +1,5 @@
 import * as React from "react"
-import Body from "../components/body"
-import ComingSoon from "../contents/ComingSoon"
+import Body from "../base/body"
 import CommitteeContent from "../contents/CommitteeContent"
 
 export default function Committee() {

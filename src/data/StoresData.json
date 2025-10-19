@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "store": "takoyaki store",
+        "vendor": "ryuta",
+        "picture": "takoyaki.jpg",
+        "detail": "we sell many Takoyaki"
+    },
+    {
+        "id": 2,
+        "store": "okonomiyaki store",
+        "vendor": "morikazu",
+        "picture": "okonomiyaki.jpg",
+        "detail": "we are the most reasonable vendor."
+    }
+]
