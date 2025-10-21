@@ -1,7 +1,7 @@
 import * as React from "react";
-import storesData from "../data/StoresData.json"
-import takoyaki from "../images/stores/takoyaki.jpg"
-import okonomiyaki from "../images/stores/okonomiyaki.jpg"
+import foodsData from "../data/FoodsData.json"
+import takoyaki from "../images/foods/takoyaki.jpg"
+import okonomiyaki from "../images/foods/okonomiyaki.jpg"
 
 const images = {
     "takoyaki.jpg": takoyaki,
@@ -12,7 +12,7 @@ export default function StoresContent() {
 
     return (
         <div className="flex flex-col m-2">
-            {storesData.map(vendor => (
+            {foodsData.map(vendor => (
                 <div key={vendor.id} className="border-2 rounded-md m-2 p-2">
                     <div className="flex flex-col">
                         <h2 className="text-3xl">{vendor.store}</h2>

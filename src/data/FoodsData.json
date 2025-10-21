@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "store": "ポップコーン",
+        "vendor": "２‐CN",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 2,
+        "store": "チュロス",
+        "vendor": "２‐IT",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 3,
+        "store": "ホットドック",
+        "vendor": "３‐CN",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 4,
+        "store": "揚げたこ焼き",
+        "vendor": "３‐ES",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 5,
+        "store": "フライドポテト",
+        "vendor": "３‐IT",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 6,
+        "store": "やえバーガー",
+        "vendor": "4-IT(やえバーガー）",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 7,
+        "store": "ハンバーガー",
+        "vendor": "剣道部",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 8,
+        "store": "唐揚げ",
+        "vendor": "高橋明矢と14人の下僕たち",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 9,
+        "store": "日本語café",
+        "vendor": "日本語café（Fried Banana & Drinks)",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 10,
+        "store": "揚げパン",
+        "vendor": "男子バスケットボール",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 11,
+        "store": "ラーメン",
+        "vendor": "5年生",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 12,
+        "store": "ベビーカステラ",
+        "vendor": "女子バスケットボール",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 13,
+        "store": "焼き鳥",
+        "vendor": "少林寺同窓会",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 14,
+        "store": "うどん類・おでん・飲み物",
+        "vendor": "Team MILab",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 15,
+        "store": "焼きそば",
+        "vendor": "バレーボール部",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 16,
+        "store": "チャーハン",
+        "vendor": "みのきん２",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 17,
+        "store": "揚げ餃子",
+        "vendor": "サッカー部",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 18,
+        "store": "水餃子",
+        "vendor": "小野研究室",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 19,
+        "store": "飲料販売",
+        "vendor": "電波祭実行委員会の売り上げを作る",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 20,
+        "store": "韓国料理",
+        "vendor": "キッチン",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 21,
+        "store": "チーズハットグ",
+        "vendor": "漢ノ菓子",
+        "picture": "",
+        "detail": ""
+    },
+    {
+        "id": 22,
+        "store": "ナチョス（スナック＋チーズソース）",
+        "vendor": "Dori Topp",
+        "picture": "",
+        "detail": ""
+    }
+]

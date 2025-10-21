@@ -1,8 +1,8 @@
 import * as React from "react"
 import Body from "../base/body"
-import StoresContent from "../contents/storesContent"
+import StoresContent from "../contents/FoodsContent"
 
-export default function Vendor() {
+export default function Foods() {
     
     return (
         <Body>
