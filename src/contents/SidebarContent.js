@@ -34,7 +34,7 @@ export default function SideBarContent() {
         </Link>
       </li>
 
-      <li>
+      <li className="h-10">
         <a
           href="https://nanashi4762.github.io/R7KeionDenpasai/"
           className="flex items-center h-full w-full"
@@ -51,4 +51,3 @@ export default function SideBarContent() {
     </ul>
   );
 }
-
