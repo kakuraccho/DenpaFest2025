@@ -3,43 +3,43 @@
         "id": 1,
         "event": "フォトブース",
         "organizer": "1-1",
-        "picture": "",
-        "detail": ""
+        "picture": "PictureBooth.jpg",
+        "detail": "記念撮影にぜひ。"
     },
     {
         "id": 2,
         "event": "休憩所",
         "organizer": "1-2",
-        "picture": "",
-        "detail": ""
+        "picture": "Rest.jpg",
+        "detail": "疲れた体に、休憩所！UNOやトランプ、ベイブレード体験会など、いろんなことができるよ！"
     },
     {
         "id": 3,
         "event": "おばけやしき",
         "organizer": "1-3",
-        "picture": "",
-        "detail": ""
+        "picture": "Ghost.jpg",
+        "detail": "その日、教室でなにかがあった...肝試し、開幕！"
     },
     {
         "id": 4,
         "event": "ゲームの展示",
-        "organizer": "6-CS-95",
-        "picture": "",
-        "detail": ""
+        "organizer": "GCS-95",
+        "picture": "GCS.jpg",
+        "detail": "文芸、写真、ゲーム、その他...グローバルに展示する、GCSにぜひお越しください！"
     },
     {
         "id": 5,
         "event": "学校の記憶と記録 プレ・コンサート",
         "organizer": "学校の記憶と記録 プレ・コンサート",
-        "picture": "",
-        "detail": ""
+        "picture": "SchoolSongs.jpg",
+        "detail": "学校の校歌を初音ミクや重音テトに歌わせて当時の思い出を復元させました"
     },
     {
         "id": 6,
         "event": "現代視覚文化研究会制作展示",
         "organizer": "現代視覚文化研究会",
-        "picture": "",
-        "detail": ""
+        "picture": "Genshiken.png",
+        "detail": "現視研へようこそ！作品の展示や配布を行っています！"
     },
     {
         "id": 7,
@@ -52,28 +52,35 @@
         "id": 8,
         "event": "情報セキュリティ啓発",
         "organizer": "情報セキュリティ研究会",
-        "picture": "",
-        "detail": ""
+        "picture": "Isec.png",
+        "detail": "ウイルスやセキュリティの世界を体験できる展示を開催中！サイバーセキュリティに触れて学べる楽しい展示です。ぜひ遊びに来てください！"
     },
     {
         "id": 9,
-        "event": "アマチュア無線　体験運用",
+        "event": "アマチュア無線 体験運用",
         "organizer": "無線部",
-        "picture": "",
-        "detail": ""
+        "picture": "Musen.jpg",
+        "detail": "アマチュア無線未経験者向けの体験交信会を開催します。アマチュア無線に少しでも興味がある方はぜひお越しください！"
     },
     {
         "id": 10,
         "event": "軽音ライブ",
         "organizer": "軽音楽部",
-        "picture": "",
-        "detail": ""
+        "picture": "Keion.jpg",
+        "detail": "音楽好きも親も子も皆さんに素敵な演奏をお届けします!よってらっしゃいみてらっしゃい!"
     },
     {
         "id": 11,
         "event": "書道パフォーマンス",
         "organizer": "書道同好会",
-        "picture": "",
-        "detail": ""
+        "picture": "Shodo.jpg",
+        "detail": "11/2(土)10時から中庭で書道パフォーマンスをします！ぜひ見に来てください！"
+    },
+    {
+        "id": 12,
+        "event": "吹奏楽コンサート",
+        "organizer": "吹奏楽部",
+        "picture": "BrassBand.jpg",
+        "detail": "1音1音心を込めて演奏します。"
     }
 ]
