@@ -2,34 +2,34 @@
     {
         "id": 1,
         "event": "フォトブース",
-        "organizer": "１‐１",
+        "organizer": "1-1",
         "picture": "",
         "detail": ""
     },
     {
         "id": 2,
         "event": "休憩所",
-        "organizer": "１‐２",
+        "organizer": "1-2",
         "picture": "",
         "detail": ""
     },
     {
         "id": 3,
         "event": "おばけやしき",
-        "organizer": "１‐３",
+        "organizer": "1-3",
         "picture": "",
         "detail": ""
     },
     {
         "id": 4,
         "event": "ゲームの展示",
-        "organizer": "６‐CS‐95",
+        "organizer": "6-CS-95",
         "picture": "",
         "detail": ""
     },
     {
         "id": 5,
-        "event": "学校の記憶と記録プレ・コンサート",
+        "event": "学校の記憶と記録 プレ・コンサート",
         "organizer": "学校の記憶と記録 プレ・コンサート",
         "picture": "",
         "detail": ""

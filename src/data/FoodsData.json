@@ -2,42 +2,42 @@
     {
         "id": 1,
         "store": "ポップコーン",
-        "vendor": "２‐CN",
+        "vendor": "2-CN",
         "picture": "",
         "detail": ""
     },
     {
         "id": 2,
         "store": "チュロス",
-        "vendor": "２‐IT",
+        "vendor": "2-IT",
         "picture": "",
         "detail": ""
     },
     {
         "id": 3,
         "store": "ホットドック",
-        "vendor": "３‐CN",
+        "vendor": "2-CN",
         "picture": "",
         "detail": ""
     },
     {
         "id": 4,
         "store": "揚げたこ焼き",
-        "vendor": "３‐ES",
+        "vendor": "3-ES",
         "picture": "",
         "detail": ""
     },
     {
         "id": 5,
         "store": "フライドポテト",
-        "vendor": "３‐IT",
+        "vendor": "3-IT",
         "picture": "",
         "detail": ""
     },
     {
         "id": 6,
         "store": "やえバーガー",
-        "vendor": "4-IT(やえバーガー）",
+        "vendor": "4-IT",
         "picture": "",
         "detail": ""
     },
@@ -57,8 +57,8 @@
     },
     {
         "id": 9,
-        "store": "日本語café",
-        "vendor": "日本語café（Fried Banana & Drinks)",
+        "store": "Fried Banana & Drinks",
+        "vendor": "日本語café",
         "picture": "",
         "detail": ""
     },
@@ -148,7 +148,7 @@
     },
     {
         "id": 22,
-        "store": "ナチョス（スナック＋チーズソース）",
+        "store": "ナチョス",
         "vendor": "Dori Topp",
         "picture": "",
         "detail": ""

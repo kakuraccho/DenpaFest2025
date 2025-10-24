@@ -10,23 +10,27 @@ export default function SideBarContent() {
             </li>
 
             <li className="h-10">
-                <Link to="/messages" className="flex items-center h-full w-full">01. Messages</Link>
+                <Link to="/announcement" className="flex items-center h-full w-full">01. Announcement</Link>
             </li>
 
             <li className="h-10">
-                <Link to="/foods" className="flex items-center h-full w-full">02. Foods</Link>
+                <Link to="/messages" className="flex items-center h-full w-full">02. Messages</Link>
             </li>
 
             <li className="h-10">
-                <Link to="/events" className="flex items-center h-full w-full">03. Events</Link>
+                <Link to="/foods" className="flex items-center h-full w-full">03. Foods</Link>
             </li>
 
             <li className="h-10">
-                <Link to="/timetable" className="flex items-center h-full w-full">04. Time Table</Link>
+                <Link to="/events" className="flex items-center h-full w-full">04. Events</Link>
             </li>
 
             <li className="h-10">
-                <Link to="/committee" className="flex items-center h-full w-full">05. Committee</Link>
+                <Link to="/timetable" className="flex items-center h-full w-full">05. Time Table</Link>
+            </li>
+
+            <li className="h-10">
+                <Link to="/committee" className="flex items-center h-full w-full">06. Committee</Link>
             </li>
         </ul>
 
