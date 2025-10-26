@@ -1,5 +1,6 @@
 import * as React from "react";
 import foodsData from "../data/FoodsData.json"
+import noimage from "../images/noimage.png"
 import ES2 from "../images/foods/ES2.png"
 import IT2 from "../images/foods/IT2.png"
 import CN3 from "../images/foods/CN3.jpg"
@@ -18,6 +19,7 @@ import Soccer from "../images/foods/Soccer.jpg"
 import OnoKen from "../images/foods/OnoKen.jpg"
 
 const images = {
+    "noimage.png": noimage,
     "ES2.png": ES2,
     "IT2.png": IT2,
     "CN3.jpg": CN3,

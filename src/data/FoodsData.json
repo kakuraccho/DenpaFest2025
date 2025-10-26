@@ -3,7 +3,7 @@
         "id": 1,
         "store": "ポップコーン",
         "vendor": "2-CN",
-        "picture": "",
+        "picture": "noimage.png",
         "detail": ""
     },
     {
@@ -11,7 +11,7 @@
         "store": "ワッフル",
         "vendor": "2-ES",
         "picture": "ES2.png",
-        "detail": ""
+        "detail": "安くておいしい！ワッフル食べに来てください！！"
     },
     {
         "id": 3,
@@ -52,7 +52,7 @@
         "id": 8,
         "store": "ハンバーガー",
         "vendor": "剣道部",
-        "picture": "",
+        "picture": "noimage.png",
         "detail": ""
     },
     {
@@ -115,7 +115,7 @@
         "id": 17,
         "store": "チャーハン",
         "vendor": "みのきん２",
-        "picture": "",
+        "picture": "noimage.png",
         "detail": ""
     },
     {
@@ -136,28 +136,28 @@
         "id": 20,
         "store": "飲料販売",
         "vendor": "電波祭実行委員会の売り上げを作る",
-        "picture": "",
+        "picture": "noimage.png",
         "detail": ""
     },
     {
         "id": 21,
         "store": "韓国料理",
         "vendor": "キッチン",
-        "picture": "",
+        "picture": "noimage.png",
         "detail": "混ぜそば,ヤンニョムチキン味で勝負！待ってます！"
     },
     {
         "id": 22,
         "store": "ベビーカステラ",
         "vendor": "漢ノ菓子",
-        "picture": "",
+        "picture": "noimage.png",
         "detail": ""
     },
     {
         "id": 23,
         "store": "ナチョス",
         "vendor": "Dori Topp",
-        "picture": "",
+        "picture": "noimage.png",
         "detail": ""
     }
 ]

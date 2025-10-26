@@ -3,6 +3,7 @@ import Body from "../base/body";
 
 import day1 from "../images/timetable/1stday.jpg"
 import day2 from "../images/timetable/2ndday.jpg"
+import koumoku from "../images/timetable/koumoku.jpg"
 
 export default function TimeTable() {
     
@@ -18,6 +19,11 @@ export default function TimeTable() {
                     src={day2}
                     alt=""
                     className=""
+                />
+                <img
+                    src={koumoku}
+                    alt=""
+                    className="m-3 border-2 rounded-lg"
                 />
             </div>
         </Body>

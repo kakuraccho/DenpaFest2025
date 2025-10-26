@@ -1,5 +1,6 @@
 import * as React from "react";
 import eventsData from "../data/EventsData.json"
+import noimage from "../images/noimage.png"
 import PictureBooth from "../images/events/PictureBooth.jpg"
 import Rest from "../images/events/Rest.jpg"
 import Ghost from "../images/events/Ghost.jpg"
@@ -13,6 +14,7 @@ import Shodo from "../images/events/Shodo.jpg"
 import BrassBand from "../images/events/BrassBand.jpg"
 
 const images = {
+    "noimage.png": noimage,
     "PictureBooth.jpg": PictureBooth,
     "Rest.jpg": Rest,
     "Ghost.jpg": Ghost,
