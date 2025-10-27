@@ -1,6 +1,7 @@
 import * as React from "react";
 import { createClient } from "microcms-js-sdk";
 import Body from '../base/body'
+import ComingSoon from '../contents/ComingSoon'
 
 const client = createClient({
     serviceDomain: "denpafest2025",
@@ -8,15 +9,9 @@ const client = createClient({
 })
 
 export default function Announcement() {
-
-    client
-        .get({
-            endpoint: "news",
-        })
-        .then((res) => console.log(res))
     return (
         <Body>
-            
+            <ComingSoon />
         </Body>
     )
 }
