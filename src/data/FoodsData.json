@@ -1,163 +1,164 @@
 [
-    {
-        "id": 1,
-        "store": "ポップコーン",
-        "vendor": "2-CN",
-        "picture": "noimage.png",
-        "detail": ""
-    },
-    {
-        "id": 2,
-        "store": "ワッフル",
-        "vendor": "2-ES",
-        "picture": "ES2.png",
-        "detail": "安くておいしい！ワッフル食べに来てください！！"
-    },
-    {
-        "id": 3,
-        "store": "チュロス",
-        "vendor": "2-IT",
-        "picture": "IT2.png",
-        "detail": "できたてのチュロスはいかが？"
-    },
-    {
-        "id": 4,
-        "store": "ホットドック",
-        "vendor": "3-CN",
-        "picture": "CN3.jpg",
-        "detail": "ぜひ買いに来てください！"
-    },
-    {
-        "id": 5,
-        "store": "揚げたこ焼き",
-        "vendor": "3-ES",
-        "picture": "ES3.png",
-        "detail": "たこ焼き、うまいッピ！"
-    },
-    {
-        "id": 6,
-        "store": "フライドポテト",
-        "vendor": "3-IT",
-        "picture": "IT3.jpg",
-        "detail": "トッピングにハニーマスタードあります！！！"
-    },
-    {
-        "id": 7,
-        "store": "やえバーガー",
-        "vendor": "4-IT",
-        "picture": "YaeBurger.jpg",
-        "detail": "去年の伝説をもう一度！やえバーガー2始動。"
-    },
-    {
-        "id": 8,
-        "store": "ハンバーガー",
-        "vendor": "剣道部",
-        "picture": "noimage.png",
-        "detail": ""
-    },
-    {
-        "id": 9,
-        "store": "唐揚げ",
-        "vendor": "高橋明矢と14人の下僕たち",
-        "picture": "Takahashi.jpg",
-        "detail": "隠し味はプロテインだぞ❤"
-    },
-    {
-        "id": 10,
-        "store": "Fried Banana & Drinks",
-        "vendor": "日本語café",
-        "picture": "JapaneseCafe.jpg",
-        "detail": "バナナでSmile、レモネードでRefresh! 留学生が考案した新感覚スイーツとドリンクをどうぞ！"
-    },
-    {
-        "id": 11,
-        "store": "揚げパン",
-        "vendor": "男子バスケットボール",
-        "picture": "BBasket.jpg",
-        "detail": "世界で最も美味しい揚げパンです"
-    },
-    {
-        "id": 12,
-        "store": "ラーメン",
-        "vendor": "5年生",
-        "picture": "HiyashiChuka.jpg",
-        "detail": "冷やし中華始めました"
-    },
-    {
-        "id": 13,
-        "store": "ベビーカステラ",
-        "vendor": "女子バスケットボール",
-        "picture": "GBasket.png",
-        "detail": "一口サイズのベビーカステラです！"
-    },
-    {
-        "id": 14,
-        "store": "焼き鳥",
-        "vendor": "少林寺同窓会",
-        "picture": "Shorinji.jpg",
-        "detail": "少林寺拳法産の焼き鳥です。炭火で調理します。みんなきてね。"
-    },
-    {
-        "id": 15,
-        "store": "うどん類・飲み物",
-        "vendor": "Team MILab",
-        "picture": "MILab.png",
-        "detail": "みんなで楽しめるメニューが勢ぞろい！香川ならではのうどんにタピオカもやってます!"
-    },
-    {
-        "id": 16,
-        "store": "焼きそば",
-        "vendor": "バレーボール部",
-        "picture": "BVolley.jpg",
-        "detail": "おいしいやきそばたべまい"
-    },
-    {
-        "id": 17,
-        "store": "チャーハン",
-        "vendor": "みのきん２",
-        "picture": "noimage.png",
-        "detail": ""
-    },
-    {
-        "id": 18,
-        "store": "揚げ餃子",
-        "vendor": "サッカー部",
-        "picture": "Soccer.jpg",
-        "detail": "おいしいのでみんな買いに来てねー"
-    },
-    {
-        "id": 19,
-        "store": "水餃子",
-        "vendor": "小野研",
-        "picture": "OnoKen.jpg",
-        "detail": "こだわりの水餃子と、可愛いわたあめをご用意しました！肌寒くなったこの時期にあったか～い水餃子はいかがですか？"
-    },
-    {
-        "id": 20,
-        "store": "飲料販売",
-        "vendor": "電波祭実行委員会の売り上げを作る",
-        "picture": "noimage.png",
-        "detail": ""
-    },
-    {
-        "id": 21,
-        "store": "韓国料理",
-        "vendor": "キッチン",
-        "picture": "noimage.png",
-        "detail": "混ぜそば,ヤンニョムチキン味で勝負！待ってます！"
-    },
-    {
-        "id": 22,
-        "store": "ベビーカステラ",
-        "vendor": "漢ノ菓子",
-        "picture": "noimage.png",
-        "detail": ""
-    },
-    {
-        "id": 23,
-        "store": "ナチョス",
-        "vendor": "Dori Topp",
-        "picture": "noimage.png",
-        "detail": ""
-    }
+  {
+    "id": 1,
+    "store": "ポップコーン",
+    "vendor": "2-CN",
+    "picture": "noimage.png",
+    "detail": ""
+  },
+  {
+    "id": 2,
+    "store": "ワッフル",
+    "vendor": "2-ES",
+    "picture": "ES2.png",
+    "detail": "安くておいしい！ワッフル食べに来てください！！"
+  },
+  {
+    "id": 3,
+    "store": "チュロス",
+    "vendor": "2-IT",
+    "picture": "IT2.png",
+    "detail": "できたてのチュロスはいかが？"
+  },
+  {
+    "id": 4,
+    "store": "ホットドック",
+    "vendor": "3-CN",
+    "picture": "CN3.jpg",
+    "detail": "ぜひ買いに来てください！"
+  },
+  {
+    "id": 5,
+    "store": "揚げたこ焼き",
+    "vendor": "3-ES",
+    "picture": "ES3.png",
+    "detail": "たこ焼き、うまいッピ！"
+  },
+  {
+    "id": 6,
+    "store": "フライドポテト",
+    "vendor": "3-IT",
+    "picture": "IT3.jpg",
+    "detail": "トッピングにハニーマスタードあります！！！"
+  },
+  {
+    "id": 7,
+    "store": "やえバーガー",
+    "vendor": "4-IT",
+    "picture": "YaeBurger.jpg",
+    "detail": "去年の伝説をもう一度！やえバーガー2始動。"
+  },
+  {
+    "id": 8,
+    "store": "ハンバーガー",
+    "vendor": "剣道部",
+    "picture": "noimage.png",
+    "detail": ""
+  },
+  {
+    "id": 9,
+    "store": "唐揚げ",
+    "vendor": "高橋明矢と14人の下僕たち",
+    "picture": "Takahashi.jpg",
+    "detail": "隠し味はプロテインだぞ❤"
+  },
+  {
+    "id": 10,
+    "store": "Fried Banana & Drinks",
+    "vendor": "日本語café",
+    "picture": "JapaneseCafe.jpg",
+    "detail": "バナナでSmile、レモネードでRefresh! 留学生が考案した新感覚スイーツとドリンクをどうぞ！"
+  },
+  {
+    "id": 11,
+    "store": "揚げパン",
+    "vendor": "男子バスケットボール",
+    "picture": "BBasket.jpg",
+    "detail": "世界で最も美味しい揚げパンです"
+  },
+  {
+    "id": 12,
+    "store": "ラーメン",
+    "vendor": "5年生",
+    "picture": "HiyashiChuka.jpg",
+    "detail": "冷やし中華始めました"
+  },
+  {
+    "id": 13,
+    "store": "ベビーカステラ",
+    "vendor": "女子バスケットボール",
+    "picture": "GBasket.png",
+    "detail": "一口サイズのベビーカステラです！"
+  },
+  {
+    "id": 14,
+    "store": "焼き鳥",
+    "vendor": "少林寺同窓会",
+    "picture": "Shorinji.jpg",
+    "detail": "少林寺拳法産の焼き鳥です。炭火で調理します。みんなきてね。"
+  },
+  {
+    "id": 15,
+    "store": "うどん類・飲み物",
+    "vendor": "Team MILab.",
+    "picture": "MILab.png",
+    "detail": "みんなで楽しめるメニューが勢ぞろい！香川ならではのうどんにタピオカもやってます!"
+  },
+  {
+    "id": 16,
+    "store": "焼きそば",
+    "vendor": "バレーボール部",
+    "picture": "BVolley.jpg",
+    "detail": "おいしいやきそばたべまい"
+  },
+  {
+    "id": 17,
+    "store": "チャーハン",
+    "vendor": "みのきん２",
+    "picture": "noimage.png",
+    "detail": ""
+  },
+  {
+    "id": 18,
+    "store": "揚げ餃子",
+    "vendor": "サッカー部",
+    "picture": "Soccer.jpg",
+    "detail": "おいしいのでみんな買いに来てねー"
+  },
+  {
+    "id": 19,
+    "store": "水餃子",
+    "vendor": "小野研",
+    "picture": "OnoKen.jpg",
+    "detail": "こだわりの水餃子と、可愛いわたあめをご用意しました！肌寒くなったこの時期にあったか～い水餃子はいかがですか？"
+  },
+  {
+    "id": 20,
+    "store": "飲料販売",
+    "vendor": "電波祭実行委員会の売り上げを作る",
+    "picture": "noimage.png",
+    "detail": ""
+  },
+  {
+    "id": 21,
+    "store": "韓国料理",
+    "vendor": "キッチン",
+    "picture": "noimage.png",
+    "detail": "混ぜそば,ヤンニョムチキン味で勝負！待ってます！"
+  },
+  {
+    "id": 22,
+    "store": "ベビーカステラ",
+    "vendor": "漢ノ菓子",
+    "picture": "noimage.png",
+    "detail": ""
+  },
+  {
+    "id": 23,
+    "store": "ナチョス",
+    "vendor": "Dori Topp",
+    "picture": "noimage.png",
+    "detail": ""
+  }
 ]
+
