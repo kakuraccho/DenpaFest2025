@@ -3,8 +3,8 @@
         "id": 1,
         "store": "ポップコーン",
         "vendor": "2-CN",
-        "picture": "noimage.png",
-        "detail": ""
+        "picture": "Popcorn.jpg",
+        "detail": "おいしいポップコーンです。がんばって作ります。"
     },
     {
         "id": 2,
@@ -115,8 +115,8 @@
         "id": 17,
         "store": "チャーハン",
         "vendor": "みのきん２",
-        "picture": "noimage.png",
-        "detail": ""
+        "picture": "Minokin.jpg",
+        "detail": "この一皿、すべてが黄金比。"
     },
     {
         "id": 18,

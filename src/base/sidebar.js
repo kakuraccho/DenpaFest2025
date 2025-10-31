@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import SideBarContent from "../contents/SidebarContent"
+import SideBarContent from "../components/SidebarContent"
 
 export default function SideBar({ isSidebarOpen, toggleSidebar }) {
     
